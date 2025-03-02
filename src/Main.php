@@ -113,6 +113,7 @@ class Main extends PluginBase implements Listener {
                     AbilitiesLayer::LAYER_BASE,
                     $boolAbilities,
                     $value / 20,
+                    0.1,
                     0.1
                 )
             ]
